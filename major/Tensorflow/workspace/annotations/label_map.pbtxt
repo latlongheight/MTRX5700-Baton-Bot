@@ -1,0 +1,28 @@
+item { 
+	name:'forward'
+	id:1
+}
+item { 
+	name:'left'
+	id:2
+}
+item { 
+	name:'right'
+	id:3
+}
+item { 
+	name:'stop'
+	id:4
+}
+item { 
+	name:'back'
+	id:5
+}
+item { 
+	name:'fast'
+	id:6
+}
+item { 
+	name:'slow'
+	id:7
+}

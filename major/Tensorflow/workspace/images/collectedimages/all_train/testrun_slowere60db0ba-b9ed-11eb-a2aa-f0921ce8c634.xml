@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_train</folder>
+	<filename>testrun_slowere60db0ba-b9ed-11eb-a2aa-f0921ce8c634.jpg</filename>
+	<path>C:\Users\nutta\PycharmProjects\RT-object\Tensorflow\workspace\images\collectedimages\all_train\testrun_slowere60db0ba-b9ed-11eb-a2aa-f0921ce8c634.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>163</ymin>
+			<xmax>295</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

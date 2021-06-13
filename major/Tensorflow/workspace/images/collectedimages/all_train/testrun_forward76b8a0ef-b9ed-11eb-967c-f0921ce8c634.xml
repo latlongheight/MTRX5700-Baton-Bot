@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_train</folder>
+	<filename>testrun_forward76b8a0ef-b9ed-11eb-967c-f0921ce8c634.jpg</filename>
+	<path>C:\Users\nutta\PycharmProjects\RT-object\Tensorflow\workspace\images\collectedimages\all_train\testrun_forward76b8a0ef-b9ed-11eb-967c-f0921ce8c634.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>forward</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>298</xmin>
+			<ymin>144</ymin>
+			<xmax>450</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>

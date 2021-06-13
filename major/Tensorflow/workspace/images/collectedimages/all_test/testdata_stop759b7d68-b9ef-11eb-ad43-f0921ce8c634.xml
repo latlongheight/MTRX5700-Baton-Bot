@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_test</folder>
+	<filename>testdata_stop759b7d68-b9ef-11eb-ad43-f0921ce8c634.jpg</filename>
+	<path>C:\Users\nutta\PycharmProjects\RT-object\Tensorflow\workspace\images\collectedimages\all_test\testdata_stop759b7d68-b9ef-11eb-ad43-f0921ce8c634.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>143</ymin>
+			<xmax>464</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

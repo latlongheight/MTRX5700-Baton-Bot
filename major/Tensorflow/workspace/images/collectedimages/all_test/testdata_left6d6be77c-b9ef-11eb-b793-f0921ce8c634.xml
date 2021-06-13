@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_test</folder>
+	<filename>testdata_left6d6be77c-b9ef-11eb-b793-f0921ce8c634.jpg</filename>
+	<path>C:\Users\nutta\PycharmProjects\RT-object\Tensorflow\workspace\images\collectedimages\all_test\testdata_left6d6be77c-b9ef-11eb-b793-f0921ce8c634.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>195</ymin>
+			<xmax>436</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

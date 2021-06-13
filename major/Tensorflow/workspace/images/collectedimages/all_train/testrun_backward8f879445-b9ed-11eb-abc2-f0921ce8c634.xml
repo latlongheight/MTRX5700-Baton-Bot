@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_train</folder>
+	<filename>testrun_backward8f879445-b9ed-11eb-abc2-f0921ce8c634.jpg</filename>
+	<path>C:\Users\nutta\PycharmProjects\RT-object\Tensorflow\workspace\images\collectedimages\all_train\testrun_backward8f879445-b9ed-11eb-abc2-f0921ce8c634.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>back</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>198</ymin>
+			<xmax>418</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>

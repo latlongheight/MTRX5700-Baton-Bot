@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_train</folder>
+	<filename>testrun_left07f3698f-b9ee-11eb-b197-f0921ce8c634.jpg</filename>
+	<path>C:\Users\nutta\PycharmProjects\RT-object\Tensorflow\workspace\images\collectedimages\all_train\testrun_left07f3698f-b9ee-11eb-b197-f0921ce8c634.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>174</ymin>
+			<xmax>493</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>
